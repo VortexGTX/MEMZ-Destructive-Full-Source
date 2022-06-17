@@ -1,6 +1,5 @@
 # MEMZ
-LOL
-HERE IS FULL SOURCE OF MEMZ!!!!!!
+
 I am not responsible for any damage made using this trojan.
 
 The build scripts and converters for the MBR payload are very noobish. You will need some things to run these:
@@ -18,5 +17,4 @@ Even if you have all of this I don't think you get this to compile because my sc
 If you want to use the exe to batch converter, don't forget to append -zip to it's command line, because this gives way smaller file sizes and also works on Windows XP.
 
 You'll also need Visual Studio 2015 to build the actual Trojan. Make sure you selected the Release configuration, because Debug is not configured properly.
-
 
